@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022.03.31 17:43:48.555,=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022.03.31 17:58:22.563,C:\Users\Elewlian\Documents\Embarcadero\Studio\configmenu\Unit3.pas=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2022.03.31 17:58:22.563,C:\Users\Elewlian\Documents\Embarcadero\Studio\configmenu\Unit3.dfm=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2022.03.31 17:58:27.993,C:\Users\Elewlian\Documents\Embarcadero\Studio\configmenu\Project3.dproj=C:\Users\Elewlian\Documents\Embarcadero\Studio\Projects\Project3.dproj</Transaction>
+    <Transaction>2022.03.31 17:58:53.698,C:\Users\Elewlian\Documents\Embarcadero\Studio\configmenu\FixMenuAndPrinter.dproj=C:\Users\Elewlian\Documents\Embarcadero\Studio\configmenu\Project3.dproj</Transaction>
+  </Transactions>
+</BorlandProject>
